@@ -4,8 +4,8 @@
 
 This repository contains my solutions to the [Advent of Code 2023](https://adventofcode.com/2023) puzzles.
 
-| title                                                        | writeup                          | comments        |
-| ------------------------------------------------------------ | -------------------------------- | --------------- |
-| [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)    | [day1/day1.py](day1/day1.py)     | Python script   |
-| [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | [day2/README.md](day2/README.md) | Rust PEG parser |
-| [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3)    | [day3/day3.py](day3/day3.py)     | Python script   |
+| puzzle                                                       | writeup                          | language & comments |
+| ------------------------------------------------------------ | -------------------------------- | ------------------- |
+| [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)    | [day1/day1.py](day1/day1.py)     | Python              |
+| [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | [day2/README.md](day2/README.md) | Rust (PEG parser)   |
+| [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3)    | [day3/day3.py](day3/day3.py)     | Python              |
